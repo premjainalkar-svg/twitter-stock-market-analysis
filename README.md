@@ -10,7 +10,7 @@ This project analyzes Twitter stock market data using Data Analytics techniques 
 
 - ## Dataset
 
-[Download TWTR Dataset](./TWTR.xlsx)
+[Download TWTR Dataset](./TWTR.csv.xlsx)
 
 ## Technologies Used
 - Python
