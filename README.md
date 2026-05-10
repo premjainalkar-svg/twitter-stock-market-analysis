@@ -25,7 +25,7 @@ This project analyzes Twitter stock market data using Data Analytics techniques 
 
 The complete project analysis is available in the Jupyter Notebook file below:
 
-[Open Jupyter Notebook](./TWTR.ipynb)
+[Open Jupyter Notebook](./Twitter_Stock_Market_Analysis.ipynb)
 
 ## Dataset Columns
 - Date
