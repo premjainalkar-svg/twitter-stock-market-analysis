@@ -8,6 +8,10 @@ This project analyzes Twitter stock market data using Data Analytics techniques 
 - Visualization
 - Dashboard Creation
 
+- ## Dataset
+
+[Download TWTR Dataset](./TWTR.xlsx)
+
 ## Technologies Used
 - Python
 - Pandas
@@ -35,6 +39,7 @@ This project analyzes Twitter stock market data using Data Analytics techniques 
 
 ## Dashboard
 Interactive dashboard created using Plotly Dash.
+
 
 ## Conclusion
 The project successfully analyzed Twitter stock market trends, volatility, and investor behavior using data analytics techniques.
